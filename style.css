@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Dosis;
+    src: url(Dosis.ttf);
+}
+body{
+    background-color: black;
+    color: coral;
+}
+h1 {
+    font-family: Dosis;
+    text-align: center;
+    color: darkorange;
+}
+h2{
+    text-align: center;
+}
