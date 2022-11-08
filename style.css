@@ -7,7 +7,6 @@ body{
     color: coral;
 }
 h1 {
-    flex-flow: initial;
     font-family: Dosis;
     text-align: center;
     color: darkorange;
