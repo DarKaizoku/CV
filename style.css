@@ -51,6 +51,9 @@ h3{
     flex-direction: column;
 
     text-align: center;
+
+    padding: auto;
+    margin: 10%;
 }
 .description{
     grid-column-start: 2;
