@@ -49,6 +49,8 @@ h3{
 .zonephoto{
     display: flex;
     flex-direction: column;
+
+    text-align: center;
 }
 .description{
     grid-column-start: 2;
